@@ -10,6 +10,7 @@ import java.util.List;
 /**
  * @author deke
  * @description 堆溢出
+ *  配置启动参数：-Xms10M -Xmx10M
  * @date 2019/12/13
  */
 @RestController
